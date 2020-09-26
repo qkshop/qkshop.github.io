@@ -351,8 +351,7 @@ Primary use:
 }
 
 .how-social:hover {
-  background-color: #333;
-  color: #fff;
+  background-color: rgb(230, 230, 230);
 }
 
 .fa-facebook
